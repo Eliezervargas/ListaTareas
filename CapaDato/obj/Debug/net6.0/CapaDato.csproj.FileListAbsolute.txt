@@ -1,0 +1,14 @@
+D:\Programacion\Practicas\ListaTareas\CapaDato\bin\Debug\net6.0\CapaDato.deps.json
+D:\Programacion\Practicas\ListaTareas\CapaDato\bin\Debug\net6.0\CapaDato.runtimeconfig.json
+D:\Programacion\Practicas\ListaTareas\CapaDato\bin\Debug\net6.0\CapaDato.dll
+D:\Programacion\Practicas\ListaTareas\CapaDato\bin\Debug\net6.0\CapaDato.pdb
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.csproj.AssemblyReference.cache
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.AssemblyInfoInputs.cache
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.AssemblyInfo.cs
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.csproj.CoreCompileInputs.cache
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.dll
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\refint\CapaDato.dll
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.pdb
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\CapaDato.genruntimeconfig.cache
+D:\Programacion\Practicas\ListaTareas\CapaDato\obj\Debug\net6.0\ref\CapaDato.dll

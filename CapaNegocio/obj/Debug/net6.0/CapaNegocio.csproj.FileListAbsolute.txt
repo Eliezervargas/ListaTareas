@@ -1,0 +1,15 @@
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\bin\Debug\net6.0\CapaDato.dll
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\bin\Debug\net6.0\CapaDato.pdb
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+D:\Programacion\Practicas\ListaTareas\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
